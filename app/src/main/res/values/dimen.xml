@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lion">19sp </dimen>
+    <dimen name="email">16sp </dimen>
+    <dimen name="wid">52dp </dimen>
+    <dimen name="text">15sp </dimen>
+</resources>
